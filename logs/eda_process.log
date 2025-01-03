@@ -9,3 +9,35 @@
 2025-01-03 13:56:14,704 - INFO - Promo Sales: 7512.835578338434, No Promo Sales: 4250.614772321443
 2025-01-03 13:56:14,715 - INFO - Starting visualizations.
 2025-01-03 13:56:21,586 - INFO - Visualizations completed successfully.
+2025-01-03 15:14:15,598 - INFO - Loading training dataset.
+2025-01-03 15:14:16,151 - INFO - Dataset loaded successfully. Shape: (1017209, 9)
+2025-01-03 15:14:16,164 - INFO - Starting data cleaning.
+2025-01-03 15:14:16,362 - INFO - Data cleaning completed successfully.
+2025-01-03 15:14:16,370 - INFO - Starting feature engineering.
+2025-01-03 15:14:16,552 - INFO - Feature engineering completed successfully.
+2025-01-03 15:14:16,564 - INFO - Starting analysis.
+2025-01-03 15:14:16,746 - INFO - Analysis completed successfully.
+2025-01-03 15:14:16,756 - INFO - Starting visualizations.
+2025-01-03 15:14:17,172 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:14:17,180 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:14:17,340 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:14:17,346 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:14:17,456 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:14:17,463 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:14:17,572 - ERROR - Error during visualizations: could not convert string to float: 'a'
+2025-01-03 15:16:22,348 - INFO - Loading training dataset.
+2025-01-03 15:16:22,783 - INFO - Dataset loaded successfully. Shape: (1017209, 9)
+2025-01-03 15:16:22,794 - INFO - Starting data cleaning.
+2025-01-03 15:16:23,004 - INFO - Data cleaning completed successfully.
+2025-01-03 15:16:23,015 - INFO - Starting feature engineering.
+2025-01-03 15:16:23,228 - INFO - Feature engineering completed successfully.
+2025-01-03 15:16:23,237 - INFO - Starting analysis.
+2025-01-03 15:16:23,400 - INFO - Analysis completed successfully.
+2025-01-03 15:16:23,408 - INFO - Starting visualizations.
+2025-01-03 15:16:23,803 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:16:23,819 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:16:24,055 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:16:24,064 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:16:24,209 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:16:24,218 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:16:24,856 - INFO - Visualizations completed successfully.
