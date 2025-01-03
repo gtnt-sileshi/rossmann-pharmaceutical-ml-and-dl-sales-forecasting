@@ -1,0 +1,11 @@
+2025-01-03 13:56:13,438 - INFO - Loading training and testing datasets.
+2025-01-03 13:56:13,968 - INFO - Successfully loaded datasets. Train shape: (1017209, 9), Test shape: (41088, 8)
+2025-01-03 13:56:13,980 - INFO - Starting data cleaning.
+2025-01-03 13:56:14,111 - INFO - Data cleaning completed successfully.
+2025-01-03 13:56:14,124 - INFO - Starting feature engineering.
+2025-01-03 13:56:14,593 - INFO - Feature engineering completed successfully.
+2025-01-03 13:56:14,602 - INFO - Starting exploratory analysis.
+2025-01-03 13:56:14,627 - INFO - Sales-Customer Correlation: 0.8868414857905177
+2025-01-03 13:56:14,704 - INFO - Promo Sales: 7512.835578338434, No Promo Sales: 4250.614772321443
+2025-01-03 13:56:14,715 - INFO - Starting visualizations.
+2025-01-03 13:56:21,586 - INFO - Visualizations completed successfully.
